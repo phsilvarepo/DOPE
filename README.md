@@ -7,6 +7,6 @@ Script to rename files
 
 Parameters:
 
-  direcory_path: dataset path
+  directory_path: dataset path
 
-Note: Have to change range according to the number of images
+Note: Have to change the range, according to the number of images
