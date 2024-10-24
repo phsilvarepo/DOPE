@@ -11,7 +11,7 @@ Parameters:
 
 Note: Have to change the range, according to the number of images
 
-## pose_transfomer
+## pose_transformer
 ROS Package to convert the detected object pose from the local camera frame to the global convention (Isaac Sim convention)
 
 Subscribed topics:
