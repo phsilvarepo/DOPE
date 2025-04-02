@@ -24,3 +24,9 @@ published topics:
 
 ## Docker Container 
 Need to add weight to dope_container/weights folder (Too heavy gor github)
+
+docker build -t dope_ros -f dope_ros.dockerfile .
+
+docker run -it --rm --net=host --gpus all --privileged dope_ros
+
+roslaunch dope dope.launch
