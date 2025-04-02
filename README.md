@@ -20,3 +20,7 @@ Subscribed topics:
 published topics:
 
 - **object_pose** : PoseStamped topic with the object pose in the global axis
+
+
+## Docker Container 
+Need to add weight to dope_container/weights folder (Too heavy gor github)
